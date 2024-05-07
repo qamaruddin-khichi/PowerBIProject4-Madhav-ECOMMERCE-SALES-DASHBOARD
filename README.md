@@ -13,7 +13,7 @@
 
 ### About
 
-This repository contains the Madhav ECOMMERCE SALES DASHBOARD, which is designed to track and analyze sales performance for Madhav e-commerce across various quarters, states, product categories, and customers.
+This project contains the Madhav ECOMMERCE SALES DASHBOARD, which is designed to track and analyze sales performance for Madhav e-commerce across various quarters, states, product categories, and customers.
 
 ---
 
@@ -45,4 +45,4 @@ The purpose of the dashboard is to provide insights into Madhav's e-commerce sal
 
 ### Conclusion
 
-The Madhav ECOMMERCE SALES DASHBOARD provides valuable insights into Madhav's e-commerce sales performance. By identifying seasonal trends and top performing products/customers, Madhav can make informed decisions to optimize its e-commerce sales strategy and profitability.
+The Madhav ECOMMERCE SALES DASHBOARD provides valuable insights into Madhav's e-commerce sales performance. By identifying seasonal trends and top-performing products/customers, Madhav can make informed decisions to optimize its e-commerce sales strategy and profitability.
