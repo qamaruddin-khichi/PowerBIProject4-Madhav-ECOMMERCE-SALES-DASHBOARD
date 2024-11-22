@@ -1,5 +1,7 @@
 # PowerBIProject4 - Madhav ECOMMERCE SALES DASHBOARD
 
+Explore the interactive dashboard: [Madhav E-Commerce Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjcxMjNmMDktM2EwNC00YTA4LWEzMTItY2U1MTY1YjUwZjU0IiwidCI6IjU0MTM4MTA5LTNiOGEtNDMzNy1hYzk2LTY4ZDE4ODM0NmNhOCIsImMiOjl9)
+
 ### Table of Contents
 
 - [About](#about)
